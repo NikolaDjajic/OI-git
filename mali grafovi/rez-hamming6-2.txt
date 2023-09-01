@@ -1,0 +1,45 @@
+1.
+Minimalni slabo povezani dominirajuci skup: ['18', '41']
+Duzina 2
+--- 0.2943599224090576 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['41', '30']
+Duzina 2
+--- 0.3015158176422119 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['61', '1']
+Duzina 2
+--- 0.2853832244873047 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['47', '49']
+Duzina 2
+--- 0.329495906829834 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['35', '43']
+Duzina 2
+--- 0.24107885360717773 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['60', '49']
+Duzina 2
+--- 0.3611762523651123 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['30', '32']
+Duzina 2
+--- 0.25744104385375977 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['41', '24']
+Duzina 2
+--- 0.3086972236633301 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['24', '47']
+Duzina 2
+--- 0.3401601314544678 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['18', '41']
+Duzina 2
+--- 0.26719141006469727 sekundi ---
+
+--pohlepni
+Minimalni slabo povezani dominirajuci skup: {'5', '1'}
+Minimalni slabo povezani dominirajuci skup: 2
+--- 0.013000011444091797 sekundi ---

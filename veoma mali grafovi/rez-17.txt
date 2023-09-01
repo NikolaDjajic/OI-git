@@ -1,0 +1,53 @@
+Pohlepni 
+
+Minimalni slabo povezani dominirajuci skup: {'10', '9', '1', '7', '15', '8', '17'}
+Minimalni slabo povezani dominirajuci skup: 7
+--- 0.0009989738464355469 sekundi ---
+
+PuLP
+
+Selected: [2, 3, 4, 17]
+Selected: 4
+--- 331.97126817703247 sekundi ---
+
+Genetski
+1.
+Minimalni slabo povezani dominirajuci skup: ['7', '8', '9', '14', '16', '1', '6']
+Duzina 7
+--- 0.04422330856323242 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['7', '8', '14', '16', '9', '1', '10']
+Duzina 7
+--- 0.03147482872009277 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['3', '4', '5', '6', '7', '8', '13', '15', '17']
+Duzina 9
+--- 0.03017735481262207 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['8', '9', '12', '1', '13', '11', '3', '10']
+Duzina 8
+--- 0.04314565658569336 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['8', '9', '16', '1', '13', '11', '10']
+Duzina 7
+--- 0.036226749420166016 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['9', '12', '14', '15', '1', '11', '3', '6']
+Duzina 8
+--- 0.03715991973876953 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['1', '5', '6', '8', '11', '12', '14', '16', '17']
+Duzina 9
+--- 0.032103538513183594 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['7', '8', '9', '12', '16', '1', '17', '10']
+Duzina 8
+--- 0.03166389465332031 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['1', '6', '7', '8', '9', '14', '16']
+Duzina 7
+--- 0.02719259262084961 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['9', '12', '4', '5', '17', '3', '6', '11']
+Duzina 8
+--- 0.03062891960144043 sekundi ---

@@ -1,0 +1,53 @@
+Pohlepni
+
+Minimalni slabo povezani dominirajuci skup: {'4', '11', '7'}
+Minimalni slabo povezani dominirajuci skup: 3
+--- 0.0010113716125488281 sekundi ---
+
+PuLP
+
+Selected: [1, 4, 5, 6]
+Selected: 4
+--- 1.626190423965454 sekundi ---
+
+Genetski
+1.
+Minimalni slabo povezani dominirajuci skup: ['7', '4', '11']
+Duzina 3
+--- 0.022399187088012695 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['11', '7', '4']
+Duzina 3
+--- 0.027562379837036133 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['11', '7', '4']
+Duzina 3
+--- 0.03666353225708008 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['11', '7', '4']
+Duzina 3
+--- 0.024384021759033203 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['11', '7', '4']
+Duzina 3
+--- 0.025641918182373047 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['11', '4', '7']
+Duzina 3
+--- 0.03418231010437012 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['11', '7', '4']
+Duzina 3
+--- 0.024564743041992188 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['11', '7', '4']
+Duzina 3
+--- 0.03067326545715332 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['11', '4', '7']
+Duzina 3
+--- 0.0298006534576416 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['11', '4', '7']
+Duzina 3
+--- 0.023775100708007812 sekundi ---

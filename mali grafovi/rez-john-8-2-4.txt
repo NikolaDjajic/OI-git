@@ -1,0 +1,40 @@
+1.
+Minimalni slabo povezani dominirajuci skup: ['17', '6', '22']
+Duzina 3
+--- 0.09752964973449707 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['9', '21', '22']
+Duzina 3
+--- 0.15805411338806152 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['11', '24', '8']
+Duzina 3
+--- 0.12759113311767578 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['5', '4', '1']
+Duzina 3
+--- 0.09254908561706543 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['18', '11', '26']
+Duzina 3
+--- 0.13617682456970215 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['18', '1', '26']
+Duzina 3
+--- 0.1195375919342041 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['7', '28', '5']
+Duzina 3
+--- 0.08857202529907227 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['18', '1', '26']
+Duzina 3
+--- 0.10158085823059082 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['18', '11', '10']
+Duzina 3
+--- 0.08463001251220703 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['26', '16', '13']
+Duzina 3
+--- 0.09258008003234863 sekundi ---

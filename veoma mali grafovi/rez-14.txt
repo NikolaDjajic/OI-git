@@ -1,0 +1,52 @@
+Pohlepni
+
+Minimalni slabo povezani dominirajuci skup: {'9', '13', '2'}
+Minimalni slabo povezani dominirajuci skup: 3
+--- 0.0015649795532226562 sekundi ---
+
+PuLP
+Selected: [2, 3, 10, 13]
+Selected: 4
+--- 23.57370114326477 sekundi ---
+
+Genetski
+1.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.04513192176818848 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['2', '6', '12', '1']
+Duzina 4
+--- 0.030305862426757812 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['2', '13', '12', '10']
+Duzina 4
+--- 0.02989816665649414 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.029154062271118164 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['2', '12', '1', '10']
+Duzina 4
+--- 0.03414630889892578 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['5', '6', '12', '1']
+Duzina 4
+--- 0.03070211410522461 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.03433108329772949 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['2', '11', '1', '10']
+Duzina 4
+--- 0.030586719512939453 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.03708815574645996 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.04582023620605469 sekundi ---

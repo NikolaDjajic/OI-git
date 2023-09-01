@@ -1,0 +1,45 @@
+1.
+Minimalni slabo povezani dominirajuci skup: ['11', '24', '42', '53']
+Duzina 4
+--- 0.26722168922424316 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['11', '24', '50', '45']
+Duzina 4
+--- 0.3167452812194824 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['41', '7', '50', '32']
+Duzina 4
+--- 0.4771566390991211 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['18', '11', '48', '53']
+Duzina 4
+--- 0.36142563819885254 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['25', '8', '50', '47']
+Duzina 4
+--- 0.3808870315551758 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['18', '7', '48', '57']
+Duzina 4
+--- 0.4040350914001465 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['36', '48', '59', '21', '10']
+Duzina 5
+--- 0.31678295135498047 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['18', '47', '8', '57']
+Duzina 4
+--- 0.3702423572540283 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['54', '36', '9', '31']
+Duzina 4
+--- 0.3268904685974121 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['39', '10', '49', '32']
+Duzina 4
+--- 0.40476560592651367 sekundi ---
+
+---pohlepni
+Minimalni slabo povezani dominirajuci skup: {'21', '57', '19', '49', '51', '1', '18', '50', '33', '53', '17', '25'}
+Minimalni slabo povezani dominirajuci skup: 12
+--- 0.0050623416900634766 sekundi ---
