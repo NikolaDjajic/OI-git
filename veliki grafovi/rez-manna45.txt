@@ -1,3 +1,52 @@
+Genetski nova verzija
+
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['87', '217']
+Duzina 2
+--- 217.15687584877014 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['51', '30']
+Duzina 2
+--- 163.90114831924438 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['217', '970']
+Duzina 2
+--- 628.7318594455719 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['30', '121']
+Duzina 2
+--- 222.8878993988037 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['24', '973']
+Duzina 2
+--- 671.0257232189178 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['1', '3']
+Duzina 2
+--- 306.0789258480072 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['21', '667']
+Duzina 2
+--- 622.3642921447754 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['21', '973']
+Duzina 2
+--- 643.7319047451019 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['21', '737']
+Duzina 2
+--- 630.3200497627258 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['21', '973']
+Duzina 2
+--- 460.75902795791626 sekundi ---
+
+
+
+Genetski stara verzija
+
+
 1.
 Minimalni slabo povezani dominirajuci skup: ['30', '642']
 Duzina 2

@@ -1,3 +1,49 @@
+Genetski nova verzija
+
+1.Minimalni slabo povezani dominirajuci skup: ['19', '3', '15']
+Duzina 3
+--- 0.3876209259033203 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['9', '16', '12']
+Duzina 3
+--- 0.3462674617767334 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['3', '6', '5']
+Duzina 3
+--- 0.35074687004089355 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['17', '24', '11']
+Duzina 3
+--- 0.35594749450683594 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['7', '8', '1']
+Duzina 3
+--- 0.40297412872314453 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['5', '4', '1']
+Duzina 3
+--- 0.38341426849365234 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['2', '24', '22']
+Duzina 3
+--- 0.400348424911499 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['5', '4', '1']
+Duzina 3
+--- 0.4261767864227295 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['25', '24', '6']
+Duzina 3
+--- 0.3591005802154541 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['2', '3', '1']
+Duzina 3
+--- 0.42744946479797363 sekundi ---
+
+
+
+Genetski stara verzija
+
 1.
 Minimalni slabo povezani dominirajuci skup: ['17', '6', '22']
 Duzina 3
@@ -38,3 +84,4 @@ Duzina 3
 Minimalni slabo povezani dominirajuci skup: ['26', '16', '13']
 Duzina 3
 --- 0.09258008003234863 sekundi ---
+

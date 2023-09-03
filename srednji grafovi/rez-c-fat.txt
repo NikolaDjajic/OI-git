@@ -1,4 +1,51 @@
-GENETSKI
+Genetski nova verzija
+
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['18', '198', '167']
+Duzina 3
+--- 9.260512113571167 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['41', '129', '85']
+Duzina 3
+--- 11.57906436920166 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['117', '49', '45']
+Duzina 3
+--- 8.762922048568726 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['135', '103', '42']
+Duzina 3
+--- 12.53216028213501 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['41', '87', '85']
+Duzina 3
+--- 12.021273851394653 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['87', '126', '47']
+Duzina 3
+--- 14.748517513275146 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['200', '150', '139', '126']
+Duzina 4
+--- 15.380367279052734 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['41', '129', '121', '103']
+Duzina 4
+--- 16.194441080093384 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['41', '87', '85']
+Duzina 3
+--- 11.097581148147583 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['118', '171', '78']
+Duzina 3
+--- 15.05730152130127 sekundi ---
+
+
+
+GENETSKI stara verzija
+
 1.
 Minimalni slabo povezani dominirajuci skup: ['18', '181', '163']
 Duzina 3

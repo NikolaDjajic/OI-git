@@ -1,4 +1,50 @@
-gENETSKI
+Genetski nova verzija
+
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['408', '559', '50', '675', '521', '396', '579']
+Duzina 7
+--- 479.35925364494324 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['30', '440', '447', '599', '626', '6', '678', '623']
+Duzina 8
+--- 426.73584270477295 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['41', '129', '312', '322', '1', '69', '619', '131']
+Duzina 8
+--- 404.57939291000366 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['546', '328', '542', '379', '99', '469', '582', '417']
+Duzina 8
+--- 612.4731402397156 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['356', '700', '82', '145', '619', '24', '118', '178', '530', '385']
+Duzina 10
+--- 545.2110815048218 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['121', '276', '238', '557', '205', '659', '213', '181', '627', '49']
+Duzina 10
+--- 232.5615270137787 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['193', '569', '243', '418', '431', '459', '533']
+Duzina 7
+--- 362.6634840965271 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['87', '279', '516', '63', '202', '5', '622', '6', '392', '642']
+Duzina 10
+--- 426.3114757537842 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['135', '30', '121', '477', '85', '87', '118', '697', '6', '663', '283']
+Duzina 11
+--- 474.51967883110046 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['30', '279', '516', '99', '51', '276', '385']
+Duzina 7
+--- 343.2754154205322 sekundi ---
+
+
+
+Genetski stara verzija
 
 1.
 Minimalni slabo povezani dominirajuci skup: ['247', '127', '277', '128', '697', '117', '234', '596']

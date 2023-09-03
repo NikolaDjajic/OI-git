@@ -9,7 +9,50 @@ Selected: [2, 3, 10, 13]
 Selected: 4
 --- 23.57370114326477 sekundi ---
 
-Genetski
+Genetski nova verzija
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.18642020225524902 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['2', '6', '12', '13']
+Duzina 4
+--- 0.14575934410095215 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['2', '11', '12', '13']
+Duzina 4
+--- 0.14002370834350586 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['2', '11', '1', '10']
+Duzina 4
+--- 0.2533576488494873 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['2', '13', '11', '10']
+Duzina 4
+--- 0.15209317207336426 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.13152027130126953 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['2', '11', '12', '13']
+Duzina 4
+--- 0.15258049964904785 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
+Duzina 3
+--- 0.13910651206970215 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['2', '8', '11', '13']
+Duzina 4
+--- 0.19643139839172363 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['2', '10', '11', '13']
+Duzina 4
+--- 0.19521880149841309 sekundi ---
+
+Genetski stara verzija
 1.
 Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
 Duzina 3
@@ -50,3 +93,6 @@ Duzina 3
 Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
 Duzina 3
 --- 0.04582023620605469 sekundi ---
+
+
+
