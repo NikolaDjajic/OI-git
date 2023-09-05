@@ -5,9 +5,10 @@ Minimalni slabo povezani dominirajuci skup: 5
 --- 0.001003265380859375 sekundi ---
 
 PuLP
-Selected: [1, 2, 4, 7]
-Selected: 4
---- 0.6931250095367432 sekundi ---
+Odabrani: [4, 7]
+Duzina: 2
+Infeasible
+--- 0.205949068069458 sekundi ---
 
 
 --GENETSKI NOVA VERZIJA
